@@ -8,9 +8,6 @@ namespace GitRefresh
         {
             Console.WriteLine("Hello World!");
 
-            var userInput = Console.ReadLine();
-
-            Console.WriteLine(userInput);
         }
     }
 }
